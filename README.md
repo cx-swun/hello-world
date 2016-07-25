@@ -1,2 +1,2 @@
 # hello-world
-this is the first repository on github
+i would like to introduce myself. my name is cx-swun. 
